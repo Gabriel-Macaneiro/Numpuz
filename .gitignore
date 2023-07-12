@@ -2,5 +2,8 @@ chest.txt
 bin/*
 include/*
 lib/*
-lib64/*
 pyvenv.cfg
+./bin/python3
+./bin/python3.10
+./bin/python
+./lib64
