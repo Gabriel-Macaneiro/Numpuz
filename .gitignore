@@ -1,5 +1,6 @@
 chest.txt
 bin/*
+include/*
 lib/*
 lib64/*
-include/*
+pyvenv.cfg
